@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#FEDBD0</color>
-    <color name="colorPrimaryDark">#FBB8AC</color>
-    <color name="colorAccent">#E0E0E0</color>
-    <color name="colorButton">#FBB8AC</color>
-    <color name="colorControlNormal">#FEDBD0</color>
+    <color name="colorPrimary">#FEDD12</color>
+    <color name="colorPrimaryDark">#FFB8AC</color>
+    <color name="colorAccent">#E0F0E0</color>
+    <color name="colorButton">#FBB2AC</color>
+    <color name="colorControlNormal">#F2DBD0</color>
     <color name="textColorPrimary">#442C2E</color>
     <color name="colorBackground">#ffffff</color>
-    <color name="toolbarIconColor">#442C2E</color>
+    <color name="toolbarIconColor">#422C2E</color>
     <color name="loginPageBackgroundColor">#FFFFFF</color>
     <color name="productGridBackgroundColor">#FFFFFF</color>
     <!-- TODO 01: Change toolbar colors -->
